@@ -5,7 +5,7 @@ Schools never shuffle classrooms randomly. This really triggered me so I made th
 HOW TO USE
 
 1. Select your list of students (in a csv format).
-   <img scr="https://i.imgur.com/O0OMjGk.png">
+   <img scr="https://i.imgur.com/O0OMjGk.png"></img>
 
 2. Select where to save your output file.
 
