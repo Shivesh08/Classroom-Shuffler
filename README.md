@@ -7,6 +7,7 @@ HOW TO USE
 1. Select your list of students (in a csv format).
    
 ![alt text](https://i.imgur.com/O0OMjGk.png)
+Note: CSV must be in this format.
 
 2. Select where to save your output file.
 
